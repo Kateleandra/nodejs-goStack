@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-  <img alt="logo da rocketseat letra cor branca e fundo roxo" title="Rocketseat" src=".github/logo.png" width="400px"/>
+  <img alt="logo do nodejs, com fundo verde" title="Nodejs" src=".github/logoNode.png" width="400px"/>
 </h1>
 
 <br>
